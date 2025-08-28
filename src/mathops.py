@@ -1,5 +1,5 @@
 def add(a: int, b: int) -> int:
-    """Return sum of two integers."""
+    """Return sum of two integers. Updated docstring from Branch A."""
     return a + b
 
 def safe_divide(a: float, b: float) -> float:
